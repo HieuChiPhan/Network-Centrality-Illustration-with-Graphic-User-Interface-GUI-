@@ -31,17 +31,19 @@ Type of network:
 
 ### General information
 Example:
+<p align="center">
+  <img src="1.PNG" width="250" title="Illustrating AC Importance Level Map ">
+</p>
 
 ### Component information
 Example:
-
-
-
+<p align="center">
+  <img src="2.PNG" width="250" title="Illustrating AC Importance Level Map ">
+</p>
 
 
 <p align="center">
   <img src="interface.PNG" width="750" title="Illustrating AC Importance Level Map ">
 </p>
 
-The program designed to  
 
