@@ -8,6 +8,12 @@ This GUI developed to support for the observation on similarity between the betw
 <a href="https://www.researchgate.net/profile/Hieu_Phan9/publication/321490512_COMPLEX_NETWORK_ANALYSIS_FOR_WATER_DISTRIBUTION_SYSTEMS_BY_INCORPORATING_THE_RELIABILITY_OF_INDIVIDUAL_PIPES/links/5c198ed8299bf12be38a1933/COMPLEX-NETWORK-ANALYSIS-FOR-WATER-DISTRIBUTION-SYSTEMS-BY-INCORPORATING-THE-RELIABILITY-OF-INDIVIDUAL-PIPES.pdf">Complex Network Analysis for Water
 Distribution Systems by Incoperating the Reliability of Individual Pipes</a>
 
+## General interface:
+
+<p align="center">
+  <img src="interface.PNG" width="750" title="Illustrating AC Importance Level Map ">
+</p>
+
 ## Options
 
 ### Input options
@@ -41,9 +47,18 @@ Example:
   <img src="2.PNG" width="250" title="Illustrating AC Importance Level Map ">
 </p>
 
-
+### Network map
+Example of edge Centrality map:
 <p align="center">
-  <img src="interface.PNG" width="750" title="Illustrating AC Importance Level Map ">
+  <img src="3.PNG" width="500" title="Illustrating AC Importance Level Map ">
 </p>
+
+Example of node Centrality map:
+<p align="center">
+  <img src="4.PNG" width="500" title="Illustrating AC Importance Level Map ">
+</p>
+
+
+
 
 
